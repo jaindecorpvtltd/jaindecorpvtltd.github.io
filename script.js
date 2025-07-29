@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             // Add the 'clicked' class to fade the link out
             linkElement.classList.add("clicked");
             // Enable the button if all links are clicked
-            if (clickedLinks.size === socialLinks.length - 2) {
+            if (clickedLinks.size === socialLinks.length) {
                 actionButton.disabled = false;
             }
         });
