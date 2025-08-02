@@ -37,6 +37,15 @@ h1 {
     font-family: "Tiro Bangla", serif;
 }
 
+.follow-heading {
+    font-family: 'Tiro Bangla', serif;
+    color: #5E1B44;
+    font-size: 1.15em;
+    margin-bottom: 20px;
+    line-height: 1.4;
+    font-weight: 600;
+}
+
 .social-links {
     display: flex;
     flex-wrap: wrap;
